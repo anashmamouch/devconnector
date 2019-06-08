@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://connect:connect1990@ds145555.mlab.com:45555/connect",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
